@@ -1,12 +1,12 @@
 {
 	"id": 1,
-	"name": "John Smith",
-	"email": "jsmith@test.com",
+	"name": "Doukali Omar",
+	"email": "jdoukali@gmail.com",
 	"phone": "123456789",
-	"city": "bangalore",
-	"state": "karnataka",
-	"country": "India",
-	"organization": "Company 1",
-	"jobProfile": "Software Developer",
-	"additionalInfo": "Has Bought a lot of products before and a high Value Customer"
+	"city": "rabat",
+	"state": "rabat salé",
+	"country": "morocco",
+	"organization": "Aznay technologies ",
+	"jobProfile": "Automation tester",
+	"additionalInfo": "Starting automation process for any project"
 }
